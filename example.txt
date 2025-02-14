@@ -1,0 +1,2 @@
+HELLO! MY NAME IS DAULET!
+This line was added by Python program.
