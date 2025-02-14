@@ -28,3 +28,6 @@ def update_text_in_file(file_path):
 if __name__ == "__main__":
     file_path = "example.txt"
     update_text_in_file(file_path)
+    
+    
+# Вот я поменял что то наверное все авававававававававааввававаа
